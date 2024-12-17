@@ -1,0 +1,11 @@
+streamlit
+geopandas
+fiona
+folium
+matplotlib
+shapely
+sqlite3
+gdal
+pandas
+seaborn
+scikit-learn
